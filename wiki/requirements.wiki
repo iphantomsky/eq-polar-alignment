@@ -1,0 +1,12 @@
+#summary One-sentence summary of this page.
+#labels Phase-Requirements
+
+= Requirements =
+
+To be able to use this script you're going to need the following:
+
+  * astrometry.net-0.38.tar.bz2 from http://astrometry.net/use.html
+  * WCSlib from http://www.atnf.csiro.au/people/mcalabre/WCS/
+
+
+MORE INFO TO FOLLOW, bear with us...
