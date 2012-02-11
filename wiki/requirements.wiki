@@ -1,5 +1,5 @@
 #summary Requirements.
-#labels Phase-Requirements
+#labels ,
 
 = Requirements =
 
@@ -7,6 +7,7 @@ To be able to use this script you're going to need the following:
 
   * astrometry.net-0.38.tar.bz2 from http://astrometry.net/use.html
   * WCSlib from http://www.atnf.csiro.au/people/mcalabre/WCS/
-
+  * the Gnu Scientific Library  from ftp://ftp.gnu.org/gnu/gsl/ 
+  * the zenity GUI dialogs package http://octave.sourceforge.net/zenity/
 
 MORE INFO TO FOLLOW, bear with us...
