@@ -1,0 +1,9 @@
+#summary plots images.
+
+= Introduction =
+
+This is what to expect when you use the 'plots' function:
+
+[http://eq-polar-alignment.googlecode.com/svn/wiki/img/horizontal_plots.jpg]
+
+[http://eq-polar-alignment.googlecode.com/svn/wiki/img/vertical_plots.jpg]
